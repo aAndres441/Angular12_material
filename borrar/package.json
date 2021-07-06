@@ -1,15 +1,22 @@
 {
   "name": "borrar",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Proyecto para Angular 12",
   "repository": {
-    "type":"git",
-    "url":"https://github.com/aAndres441/Angular12_material.git"
+    "type": "git",
+    "url": "https://github.com/aAndres441/Angular12_material.git"
   },
-  "keywords": ["angular12","scss","material"],
-  "author":"Andresito <andrarias@gmail.com>",
+  "keywords": [
+    "angular12",
+    "scss",
+    "material"
+  ],
+  "author": "Andresito <andrarias@gmail.com>",
   "homepage": "https://github.com/aAndres441/Angular12_material/blob/main/README.md",
-  "engines": {"node": ">=14.10.0","npm":">=7.10.0"},
+  "engines": {
+    "node": ">=14.10.0",
+    "npm": ">=7.10.0"
+  },
   "license": "MIT",
   "scripts": {
     "ng": "ng",
